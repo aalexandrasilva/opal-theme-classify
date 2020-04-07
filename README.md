@@ -28,7 +28,7 @@ The following steps were taken:<br />
 The standard TF-IFD word vectors were computed.
 
 ## Results
-In the interest of time and therefore, testing, the classifier was trained with 160 instances. That number might be too small to be representative.<br />
+In the interest of time and since the approach is slow, the classifier was trained with 160 instances. That number might be too small to be representative.<br />
 The following accuracy was obtained for the cross-validation method with 4 folds:
 
 | Classifier    | 1-gram        | 2-gram       |3-gram              | 4-gram       | 
